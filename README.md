@@ -1,11 +1,11 @@
 # Driver LaptopDell inspiron 14 3443
 - Driver Windows
-- ...
+- ![image](https://github.com/BsNgChiThanh/DriverLaptopDell3443/assets/82578024/e18b826a-8d6a-4373-8c4e-a8948ecd5c5e)
 
 ## Source nguồn:
 - https://www.dell.com/support/home/en-vn/product-support/product/inspiron-14-3443-laptop/drivers
 - https://www.drivers-dell.com/dell-inspiron-3443-laptop-network-driver/
-- 
+- https://drive.google.com/drive/folders/1sE5aQpy_za1pPn-FOy8O1WJW6alskN0U?usp=sharing
 
 ## Cách dùng:
   - Download về run file install
@@ -18,7 +18,7 @@
 - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/6a4a5411-4708-4040-a95a-1d3d969a5e34)
 - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/d0616fe7-411a-4497-b3a9-107d90544a78)
 - Chọn vị trí sao lưu driver là xong!
-- Nếu bạn download source từ: ......
+- Nếu bạn download source từ: https://drive.google.com/drive/folders/1sE5aQpy_za1pPn-FOy8O1WJW6alskN0U?usp=sharing
   - Bạn nhấn chuột phải tại biểu tượng My Computer rồi chọn như hình sau:
   - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/3b597b5b-0f7d-4949-b580-805a159480b8)
   - Chọn **Device Manager**
