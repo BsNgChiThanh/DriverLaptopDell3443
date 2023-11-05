@@ -4,6 +4,7 @@
 
 ## Source nguồn:
 - https://www.dell.com/support/home/en-vn/product-support/product/inspiron-14-3443-laptop/drivers
+- https://www.drivers-dell.com/dell-inspiron-3443-laptop-network-driver/
 - 
 
 ## Cách dùng:
